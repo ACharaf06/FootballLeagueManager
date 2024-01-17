@@ -1,0 +1,26 @@
+[
+    {
+      "teams": [
+      {
+        "teamId": "65a320c3480a9cddac5cb84d",
+        "name": "Raja Casablanca", 
+        "goals": 3
+      },
+      {
+        "teamId": "65a3392164a296570cf3229a",
+        "name": "Real Madrid",
+        "goals": 2
+      }
+      ],
+      "date": {"$date": "2024-12-12"}, 
+      "stadium": {
+        "name": "Donor",
+        "city": {
+          "name": "Casablanca",
+          "country": "Maroc "
+        }
+      }
+    }
+  ]
+  
+

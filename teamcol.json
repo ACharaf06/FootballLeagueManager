@@ -1,0 +1,27 @@
+[
+    {
+      "name": "Raja Casablanca",
+      "colors": ["Green", "White"],
+      "players": [
+        {
+          "name": "Zniti",
+          "firstName": "Anas",
+          "birthdate": {"$date": "1988-08-28T00:00:00Z"},
+          "position": {
+            "name": "Goalkeeper",
+            "number": 1
+          }
+        },
+        {
+          "name": "Achir",
+          "firstName": "Charaf",
+          "birthdate": {"$date": "2002-06-06T00:00:00Z"},
+          "position": {
+            "name": "Arriere",
+            "number": 3
+          }
+        }
+      ]
+    }
+  ]
+  
